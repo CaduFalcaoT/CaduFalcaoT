@@ -33,7 +33,7 @@ Veja mais no meu repositório 👉 [GitHub Repositories](https://github.com/Cadu
 
 💼 **Portfólio:** https://cadufalcao.com.br/ <br>
 📧 **E-mail:** contato@cadufalcao.com.br <br>
-🔗 **LinkedIn:** [linkedin.com/in/CaduFalcao](https://linkedin.com/in/CaduFalcao)
+🔗 **LinkedIn:** [linkedin.com/in/CaduFalcao](https://www.linkedin.com/in/carlos-eduardo-falcao)
 
 ---
 
