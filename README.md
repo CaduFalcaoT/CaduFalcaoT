@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia e design, sempre buscando criar s
 
 - 🏢 **[Projeto EDOO](https://jvacioly.github.io/ProjetoEDOO/)** - Sistema de estoque e delivery em tempo real usando C++ e WebSockets.
 - 🎮 **[CinInvaders](https://github.com/Jshebb/Projeto-P1-2024)** - Jogo desenvolvido puramente em Python com a biblioteca Pygame.
-- 📊 **[Split Bill Calculator](https://github.com/CaduFalcaoT/Split-Bill-Calculator-React)** - Pequeno projeto de calculadora em React.
+- 📊 **[Redux Pizza Delivery](https://github.com/CaduFalcaoT/redux-pizza)** - Pequeno projeto de delivery em React utilizando Redux Toolkit.
 
 Veja mais no meu repositório 👉 [GitHub Repositories](https://github.com/CaduFalcaoT?tab=repositories)
 
